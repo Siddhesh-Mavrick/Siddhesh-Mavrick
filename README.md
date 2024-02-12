@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://ik.imagekit.io/laxaar/1686330454577mern-stack-01_2400x1200.png))](https://github.com/Siddhesh-Mavrick)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://ik.imagekit.io/laxaar/1686330454577mern-stack-01_2400x1200.png))]
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
